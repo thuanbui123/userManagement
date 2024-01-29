@@ -1,0 +1,6 @@
+*.txt
+/.metadata/*
+/.recommenders/*
+/Servers/*
+/.metadata/
+/.recommenders/
